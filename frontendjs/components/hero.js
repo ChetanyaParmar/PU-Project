@@ -11,7 +11,7 @@ export default function Hero() {
               TRAIN ON YOUR OWN TIME.
             </h1>
             <Button size="lg" className="bg-white text-black hover:bg-white/90">
-              JOIN OUR GYM
+              Join our VGym
             </Button>
           </div>
           <div className="w-full md:w-1/2">

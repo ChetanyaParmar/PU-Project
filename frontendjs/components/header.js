@@ -15,16 +15,16 @@ export default function Header() {
 
           <nav className="hidden md:flex items-center space-x-8">
             <Link href="/about" className="text-white hover:text-white/80">
-              About
+              Home
             </Link>
             <Link href="/schedule" className="text-white hover:text-white/80">
-              Schedule
+              Features
             </Link>
             <Link href="/contact" className="text-white hover:text-white/80">
-              Contact
+              Vr Tracker
             </Link>
             <Link href="/store" className="text-white hover:text-white/80">
-              Store
+              Subscription
             </Link>
           </nav>
 
